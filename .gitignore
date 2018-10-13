@@ -1,0 +1,6 @@
+venv
+build
+/.idea/
+*.pyc
+*.pyo
+*.db
